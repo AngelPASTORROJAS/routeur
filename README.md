@@ -1,6 +1,6 @@
 # routeur
 
-##Setup + Installation
+## Setup + Installation
 
 ’’’bash
 git clone https://github.com/AngelPASTORROJAS/routeur
@@ -9,7 +9,7 @@ npm i
 #code . #Pour ouvrir vscode directement
 ’’’
 
-##Utilisation
+## Utilisation
 ’’’bash
 npm run dev
 ’’’
