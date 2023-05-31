@@ -10,7 +10,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/form" element={<Form />} />
+          <Route path="/form/*?" element={<Form />} />
           <Route path="/effect/:decimal?" element={<Effect />} />
           <Route path="/*" element={<NotFound />}/>
         </Routes>
